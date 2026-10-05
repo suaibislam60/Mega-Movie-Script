@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html b:version='2' class='v2' expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+  
+  
+  
+  
+  <meta content='DZ4fBkftI3VgwHOD7eqxinJsmBSjcHkqdbgEa8eRj_g' name='google-site-verification'/>
+  
+  <!-- Google tag (gtag.js) -->
+<script async='async' src='https://www.googletagmanager.com/gtag/js?id=G-C1JLE782GF'/>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag(&#39;js&#39;, new Date());
+
+  gtag(&#39;config&#39;, &#39;G-C1JLE782GF&#39;);
+</script>
+  
+  
+  
+  
+    <meta charset='UTF-8'/>
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' name='viewport'/>
+    
+    <b:if cond='data:blog.pageType == &quot;index&quot;'>
+        <title>Filmyzilla Official - Download Bollywood, Hollywood &amp; South Movies HD</title>
+    <b:else/>
+        <title><data:blog.pageName/> Download | Filmyzilla 2026</title>
+    </b:if>
+
+    <meta content='Filmyzilla 2026: Download latest Bollywood, Hollywood Hindi Dubbed, South Indian movies in 480p, 720p, 1080p. Official Filmyzilla high-speed streaming links without ads.' name='description'/>
+    <meta content='filmyzilla, filmyzilla com, filmyzilla movie download, filmyzilla bollywood 2026, south movie hindi dubbed download, vega movies filmyzilla, filmyzilla 4k download, filmyzilla web series, filmyzilla org, filmyzilla hollywood hindi' name='keywords'/>
+    
+    <meta content='index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1' name='robots'/>
+    <link expr:href='data:blog.url.canonical' rel='canonical'/>
+    <meta content='India' name='geo.placename'/>
+    <meta content='IN' name='geo.region'/>
+    <meta content='en_IN' property='og:locale'/>
+
+    <meta content='Filmyzilla Official - Free HD Movie Downloads' property='og:title'/>
+    <meta content='Direct download links for latest Movies &amp; Web Series. 100% Free &amp; Fast.' property='og:description'/>
+    <meta content='website' property='og:type'/>
+
+    <script src='https://pl28454178.effectivegatecpm.com/a0/a2/d6/a0a2d6c8deb060c78dd82eef4e5400a4.js' type='text/javascript'/>
+    <script src='https://pl28454080.effectivegatecpm.com/f3/bd/57/f3bd57642731e682ecde9e8727ea927d.js' type='text/javascript'/>
+
+    <script src='https://cdn.tailwindcss.com'/>
+    <link href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css' rel='stylesheet'/>
+
+    <b:skin><![CDATA[/* Custom Theme */]]></b:skin>
+
+    <style>
+        /*<![CDATA[*/
+        @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;700&display=swap');
+        body { font-family: 'Outfit', sans-serif; background-color: #0f1014; color: #fff; display: flex; flex-direction: column; min-height: 100vh; }
+        .glass { background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); }
+        .glass-header { background: rgba(15, 16, 20, 0.95); backdrop-filter: blur(20px); border-bottom: 1px solid rgba(255, 255, 255, 0.05); }
+        .text-neon { color: #00ffa3; text-shadow: 0 0 10px rgba(0, 255, 163, 0.5); }
+        .bg-neon { background: #00ffa3; box-shadow: 0 0 20px rgba(0, 255, 163, 0.3); }
+        .movie-card { transition: transform 0.3s ease; }
+        .movie-card:hover { transform: translateY(-5px); }
+        .play-overlay { opacity: 0; transition: opacity 0.3s ease; }
+        .movie-card:hover .play-overlay { opacity: 1; }
+        
+        /* Custom Loader */
+        .scan-line { width: 100%; height: 2px; background: #00ffa3; position: absolute; animation: scan 2s linear infinite; box-shadow: 0 0 10px #00ffa3; }
+        @keyframes scan { 0% { top: 0%; opacity: 0; } 50% { opacity: 1; } 100% { top: 100%; opacity: 0; } }
+        
+        .server-btn { transition: all 0.2s; border: 1px solid rgba(255,255,255,0.1); }
+        .server-btn:hover, .server-btn.active { background: #00ffa3; color: #000; border-color: #00ffa3; box-shadow: 0 0 15px rgba(0,255,163,0.4); }
+        
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #0f1014; }
+        ::-webkit-scrollbar-thumb { background: #333; border-radius: 4px; }
+        
+        main { flex: 1; }
+        footer { margin-top: auto; z-index: 10; background: #0a0b0e; border-top: 1px solid #1f2937; }
+        
+        /* Ad Container Fixes */
+        .ad-container { display: flex; justify-content: center; margin: 20px 0; overflow: hidden; width: 100%; }
+        /*]]>*/
+    </style>
+
+    <script type='application/ld+json'>
+    //<![CDATA[
+    [
+        {
+            "@context": "https://schema.org",
+            "@type": "WebApplication",
+            "name": "Filmyzilla Movie Downloader",
+            "url": "https://filmyzillamoviedownloadlink.blogspot.com",
+            "applicationCategory": "EntertainmentApplication",
+            "operatingSystem": "All",
+            "description": "Download latest Bollywood, Hollywood, and South Indian movies in HD via Filmyzilla servers.",
+            "offers": { "@type": "Offer", "price": "0", "priceCurrency": "INR" }
+        }
+    ]
+    //]]>
+    </script>
+</head>
+<body class='bg-[#0f1014] text-gray-200'>
+
+    <b:section class='hidden' id='fix_xml_errors' showaddelement='no'/>
+
+    <nav class='fixed top-0 w-full z-50 glass-header px-4 py-3'>
+        <div class='max-w-7xl mx-auto flex justify-between items-center'>
+            <div class='flex items-center gap-2 cursor-pointer' onclick='window.location.reload()'>
+                <i class='fas fa-film text-3xl text-neon'/>
+                <span class='text-xl font-bold tracking-wide text-white'>Filmy<span class='text-neon'>zilla</span></span>
+            </div>
+            
+            <div class='hidden md:flex gap-6 text-sm font-medium'>
+                <a class='hover:text-neon transition' href='https://filmyzillamoviedownloadlink.blogspot.com/' onclick='loadHome(); return false;'>Home</a>
+                <a class='hover:text-neon transition' href='#' onclick='filterType(&quot;movie&quot;); return false;'>Movies</a>
+                <a class='hover:text-neon transition' href='#' onclick='filterType(&quot;tv&quot;); return false;'>Web Series</a>
+                <a class='hover:text-neon transition text-blue-400' href='YOUR_TELEGRAM_LINK'>Telegram Group</a>
+            </div>
+
+            <div class='flex gap-4'>
+                <div class='relative'>
+                    <input class='bg-[#1a1c24] border border-gray-700 rounded-full py-1.5 px-4 text-sm focus:outline-none focus:border-neon w-32 md:w-64 transition-all' id='searchInput' placeholder='Search Filmyzilla...' type='text'/>
+                    <i class='fas fa-search absolute right-3 top-2 text-gray-500'/>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <main class='pt-20 pb-10' id='appContent'>
+        
+        <div class='ad-container hidden md:flex'>
+            <script type='text/javascript'>
+              atOptions = { &#39;key&#39; : &#39;13349693b7e9eef68430a2d51ad3a094&#39;, &#39;format&#39; : &#39;iframe&#39;, &#39;height&#39; : 90, &#39;width&#39; : 728, &#39;params&#39; : {} };
+            </script>
+            <script src='https://www.highperformanceformat.com/13349693b7e9eef68430a2d51ad3a094/invoke.js' type='text/javascript'/>
+        </div>
+        <div class='ad-container flex md:hidden'>
+            <script type='text/javascript'>
+              atOptions = { &#39;key&#39; : &#39;e375a4a8b4ebf74d2833ba524b2a99c2&#39;, &#39;format&#39; : &#39;iframe&#39;, &#39;height&#39; : 50, &#39;width&#39; : 320, &#39;params&#39; : {} };
+            </script>
+            <script src='https://www.highperformanceformat.com/e375a4a8b4ebf74d2833ba524b2a99c2/invoke.js' type='text/javascript'/>
+        </div>
+
+        <div class='max-w-7xl mx-auto px-4'>
+            <div class='flex justify-between items-center mb-6'>
+                <h2 class='text-2xl font-bold text-white border-l-4 border-neon pl-3' id='sectionTitle'>Latest Uploads</h2>
+                <div class='flex gap-2'>
+                    <button class='bg-[#1a1c24] hover:bg-[#252833] px-4 py-1.5 rounded-full text-sm transition' onclick='filterType(&quot;movie&quot;)'>Movies</button>
+                    <button class='bg-[#1a1c24] hover:bg-[#252833] px-4 py-1.5 rounded-full text-sm transition' onclick='filterType(&quot;tv&quot;)'>Series</button>
+                </div>
+            </div>
+
+            <div class='grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-4 md:gap-6' id='contentGrid'>
+                </div>
+            
+            <div class='flex justify-center py-20 hidden' id='mainLoader'>
+                <div class='w-12 h-12 border-4 border-neon border-t-transparent rounded-full animate-spin'/>
+            </div>
+
+            <div class='text-center mt-12 mb-12'>
+                <button class='bg-[#1a1c24] border border-gray-700 text-white px-8 py-3 rounded-full hover:border-neon hover:text-neon transition' id='loadMoreBtn' onclick='loadMore()'>Load More</button>
+            </div>
+        </div>
+        
+        <div class='ad-container hidden md:flex'>
+            <script type='text/javascript'>
+              atOptions = { &#39;key&#39; : &#39;13349693b7e9eef68430a2d51ad3a094&#39;, &#39;format&#39; : &#39;iframe&#39;, &#39;height&#39; : 90, &#39;width&#39; : 728, &#39;params&#39; : {} };
+            </script>
+            <script src='https://www.highperformanceformat.com/13349693b7e9eef68430a2d51ad3a094/invoke.js' type='text/javascript'/>
+        </div>
+        <div class='ad-container flex md:hidden'>
+            <script type='text/javascript'>
+              atOptions = { &#39;key&#39; : &#39;e375a4a8b4ebf74d2833ba524b2a99c2&#39;, &#39;format&#39; : &#39;iframe&#39;, &#39;height&#39; : 50, &#39;width&#39; : 320, &#39;params&#39; : {} };
+            </script>
+            <script src='https://www.highperformanceformat.com/e375a4a8b4ebf74d2833ba524b2a99c2/invoke.js' type='text/javascript'/>
+        </div>
+    </main>
+
+    <div class='fixed inset-0 z-[100] bg-black/95 hidden overflow-y-auto backdrop-blur-sm' id='playerModal'>
+        <div class='min-h-screen px-4 text-center'>
+            <div class='inline-block w-full max-w-5xl my-8 text-left align-middle transition-all transform bg-[#0f1014] shadow-2xl rounded-2xl border border-gray-800 relative'>
+                
+                <button class='absolute -top-4 -right-4 bg-red-600 text-white w-8 h-8 rounded-full shadow-lg hover:bg-red-700 z-50' onclick='closeModal()'>
+                    <i class='fas fa-times'/>
+                </button>
+
+                <div class='grid md:grid-cols-3'>
+                    <div class='p-6 md:border-r border-gray-800 bg-[#15171e]'>
+                        <img class='w-full rounded-lg shadow-lg mb-4' id='mPoster' src=''/>
+                        <h2 class='text-2xl font-bold text-white mb-2' id='mTitle'>Title</h2>
+                        <div class='flex gap-2 mb-4 text-xs font-bold'>
+                            <span class='bg-yellow-500 text-black px-2 py-0.5 rounded' id='mRating'>IMDB 8.5</span>
+                            <span class='bg-gray-700 text-white px-2 py-0.5 rounded' id='mYear'>2024</span>
+                        </div>
+                        <p class='text-gray-400 text-sm leading-relaxed mb-4 line-clamp-4' id='mPlot'>...</p>
+                        
+                        <button class='w-full bg-red-600 hover:bg-red-700 text-white py-2 rounded mb-4 font-bold flex items-center justify-center gap-2' id='trailerBtn' onclick='playTrailer()'>
+                            <i class='fab fa-youtube'/> Watch Trailer
+                        </button>
+
+                        <div class='w-full mt-4'>
+                            <div class='text-xs text-gray-500 text-center mb-1'>SPONSORED</div>
+                            <script async='async' data-cfasync='false' src='https://pl28454095.effectivegatecpm.com/aace23ae1b421bf0d2528bf018e69b93/invoke.js'/>
+                            <div id='container-aace23ae1b421bf0d2528bf018e69b93'/>
+                        </div>
+                    </div>
+
+                    <div class='md:col-span-2 p-6'>
+                        
+                        <div class='hidden mb-6' id='tvSelectors'>
+                            <div class='flex gap-4'>
+                                <select class='bg-[#1a1c24] text-white border border-gray-700 rounded px-4 py-2 w-1/2 focus:border-neon outline-none' id='seasonSelect' onchange='loadEpisodes(this.value)'>
+                                    <option>Select Season</option>
+                                </select>
+                                <select class='bg-[#1a1c24] text-white border border-gray-700 rounded px-4 py-2 w-1/2 focus:border-neon outline-none' id='episodeSelect' onchange='selectEpisode(this.value)'>
+                                    <option>Select Episode</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class='aspect-video bg-black rounded-xl overflow-hidden relative border border-gray-800 group' id='playerContainer'>
+                            
+                            <iframe allowfullscreen='' class='w-full h-full hidden' frameborder='0' id='videoFrame' src=''/>
+                            
+                            <iframe allowfullscreen='' class='w-full h-full hidden' frameborder='0' id='trailerFrame' src=''/>
+
+                            <div class='absolute inset-0 flex items-center justify-center cursor-pointer bg-[url(&quot;https://i.imgur.com/K3wM8k2.jpg&quot;)] bg-cover' id='fakePlayer' onclick='triggerMoneyLoop()'>
+                                <div class='w-16 h-16 bg-neon/90 rounded-full flex items-center justify-center shadow-[0_0_30px_rgba(0,255,163,0.5)] group-hover:scale-110 transition'>
+                                    <i class='fas fa-play text-black text-2xl ml-1'/>
+                                </div>
+                                <p class='absolute bottom-10 text-white font-bold text-shadow'>Click to Load Server</p>
+                            </div>
+
+                            <div class='absolute inset-0 bg-[#0f1014] z-20 flex flex-col items-center justify-center hidden' id='timerOverlay'>
+                                <div class='scan-line'/>
+                                <i class='fas fa-server text-4xl text-neon mb-4 animate-pulse'/>
+                                <h3 class='text-xl font-bold text-white mb-2'>Connecting to Secure Server</h3>
+                                <p class='text-gray-400 text-sm mb-4'>Verifying connection... Please wait</p>
+                                <div class='text-4xl font-bold text-neon' id='timerCount'>15</div>
+                                <p class='text-xs text-gray-500 mt-2'>Do not close window</p>
+                            </div>
+                        </div>
+
+                        <div class='ad-container hidden md:flex'>
+                            <script type='text/javascript'>
+                              atOptions = { &#39;key&#39; : &#39;13349693b7e9eef68430a2d51ad3a094&#39;, &#39;format&#39; : &#39;iframe&#39;, &#39;height&#39; : 90, &#39;width&#39; : 728, &#39;params&#39; : {} };
+                            </script>
+                            <script src='https://www.highperformanceformat.com/13349693b7e9eef68430a2d51ad3a094/invoke.js' type='text/javascript'/>
+                        </div>
+                        <div class='ad-container flex md:hidden'>
+                            <script type='text/javascript'>
+                              atOptions = { &#39;key&#39; : &#39;e375a4a8b4ebf74d2833ba524b2a99c2&#39;, &#39;format&#39; : &#39;iframe&#39;, &#39;height&#39; : 50, &#39;width&#39; : 320, &#39;params&#39; : {} };
+                            </script>
+                            <script src='https://www.highperformanceformat.com/e375a4a8b4ebf74d2833ba524b2a99c2/invoke.js' type='text/javascript'/>
+                        </div>
+
+                        <div class='mt-6'>
+                            <h3 class='text-sm font-bold text-gray-400 mb-3 uppercase tracking-wider'>Select Streaming Server</h3>
+                            <div class='grid grid-cols-2 md:grid-cols-4 gap-3' id='serverList'>
+                                </div>
+                        </div>
+
+                        <div class='mt-6 p-4 bg-blue-600/10 border border-blue-500/30 rounded-xl flex items-center justify-between'>
+                            <div>
+                                <p class='text-white font-bold text-sm'>Buffering or Link Broken?</p>
+                                <p class='text-blue-400 text-xs'>Get Direct 4K Files on Telegram</p>
+                            </div>
+                            <a class='bg-blue-600 hover:bg-blue-500 text-white px-6 py-2 rounded-full text-sm font-bold shadow-lg shadow-blue-600/20 transition' href='YOUR_TELEGRAM_LINK' target='_blank'>
+                                <i class='fab fa-telegram-plane mr-2'/> Join Channel
+                            </a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class='bg-[#0a0b0e] border-t border-gray-800 py-12'>
+        <div class='max-w-7xl mx-auto px-4 text-center'>
+            <h2 class='text-2xl font-bold text-white mb-4'>Filmy<span class='text-neon'>zilla</span></h2>
+            <div class='flex justify-center gap-6 mb-8 text-sm text-gray-400'>
+                <a class='hover:text-neon' href='/p/dmca.html'>DMCA</a>
+                <a class='hover:text-neon' href='/p/privacy.html'>Privacy</a>
+                <a class='hover:text-neon' href='/p/terms.html'>Terms</a>
+                <a class='hover:text-neon' href='/p/contact.html'>Contact</a>
+            </div>
+            <p class='text-gray-600 text-xs'>
+                This site does not store any files on its server. All contents are provided by non-affiliated third parties.
+            </p>
+        </div>
+    </footer>
+
+    <script>
+    //<![CDATA[
+    const API_BASE = 'https://ipllive.site/AuraTrendingMovies/DualEngineAPI.php'; 
+    const IMG_BASE = 'https://image.tmdb.org/t/p/w500';
+    let currentPage = 1; let currentType = 'movie'; let activeId = null; let activeSeason = 1; let currentTrailerKey = null; let activeServerUrl = null; 
+    
+    document.addEventListener('DOMContentLoaded', () => { loadHome(); setupSearch(); });
+    function loadHome() { document.getElementById('sectionTitle').innerText = 'Trending Now'; fetchContent('discover'); }
+    function filterType(type) { currentType = type; currentPage = 1; document.getElementById('contentGrid').innerHTML = ''; document.getElementById('sectionTitle').innerText = type === 'movie' ? 'Popular Movies' : 'Trending Web Series'; fetchContent('discover'); }
+    async function fetchContent(action, query = '') {
+        const loader = document.getElementById('mainLoader'); loader.classList.remove('hidden');
+        let url = `${API_BASE}?action=${action}&page=${currentPage}&type=${currentType}`; if(query) url += `&query=${query}`;
+        try { const res = await fetch(url); const data = await res.json(); if (data.results) renderGrid(data.results); } catch (e) { console.error('Error:', e); } finally { loader.classList.add('hidden'); }
+    }
+    function renderGrid(items) {
+        const grid = document.getElementById('contentGrid');
+        items.forEach(item => {
+            if(!item.poster_path) return;
+            const title = item.title || item.name; const date = item.release_date || item.first_air_date || 'N/A'; const rating = item.vote_average ? item.vote_average.toFixed(1) : 'N/A';
+            const card = document.createElement('div'); card.className = 'movie-card bg-[#15171e] rounded-xl overflow-hidden cursor-pointer relative group border border-gray-800'; card.onclick = () => openModal(item.id, currentType);
+            card.innerHTML = `<div class="relative aspect-[2/3] overflow-hidden"><img src="${IMG_BASE}${item.poster_path}" class="w-full h-full object-cover group-hover:scale-110 transition duration-500" loading="lazy"><div class="absolute inset-0 bg-black/60 flex items-center justify-center play-overlay"><i class="fas fa-play-circle text-5xl text-neon drop-shadow-lg"></i></div><div class="absolute top-2 right-2 bg-neon text-black text-xs font-bold px-2 py-1 rounded">${rating}</div></div><div class="p-3"><h3 class="text-white font-bold truncate text-sm">${title}</h3><p class="text-gray-500 text-xs mt-1">${date.split('-')[0]}</p></div>`;
+            grid.appendChild(card);
+        });
+    }
+    function setupSearch() {
+        const input = document.getElementById('searchInput'); let timeout;
+        input.addEventListener('input', (e) => { clearTimeout(timeout); timeout = setTimeout(() => { const q = e.target.value; if(q.length > 2) { document.getElementById('contentGrid').innerHTML = ''; document.getElementById('sectionTitle').innerText = `Search: ${q}`; fetchContent('search', q); } }, 500); });
+    }
+    async function openModal(id, type) {
+        activeId = id; currentType = type;
+        document.getElementById('fakePlayer').classList.remove('hidden'); document.getElementById('videoFrame').classList.add('hidden'); document.getElementById('videoFrame').src = ''; document.getElementById('trailerFrame').classList.add('hidden'); document.getElementById('timerOverlay').classList.add('hidden'); document.getElementById('serverList').innerHTML = ''; document.getElementById('tvSelectors').classList.add('hidden');
+        const modal = document.getElementById('playerModal'); modal.classList.remove('hidden'); document.body.style.overflow = 'hidden'; 
+        const res = await fetch(`${API_BASE}?action=details&id=${id}&type=${type}`); const data = await res.json();
+        document.getElementById('mPoster').src = `${IMG_BASE}${data.poster_path}`; document.getElementById('mTitle').innerText = data.title || data.name; document.getElementById('mRating').innerText = `IMDB ${data.vote_average.toFixed(1)}`; document.getElementById('mYear').innerText = (data.release_date || data.first_air_date || '').split('-')[0]; document.getElementById('mPlot').innerText = data.overview ? data.overview : 'No overview available.';
+        currentTrailerKey = null; if(data.videos && data.videos.results) { const trailer = data.videos.results.find(v => v.type === 'Trailer' && v.site === 'YouTube'); if(trailer) currentTrailerKey = trailer.key; } document.getElementById('trailerBtn').style.display = currentTrailerKey ? 'flex' : 'none';
+        if (type === 'tv') { document.getElementById('tvSelectors').classList.remove('hidden'); loadSeasons(data.number_of_seasons); } else { loadServers(id, type); }
+    }
+    function closeModal() { document.getElementById('playerModal').classList.add('hidden'); document.getElementById('videoFrame').src = ''; document.body.style.overflow = 'auto'; }
+    function playTrailer() { if(!currentTrailerKey) return; const frame = document.getElementById('trailerFrame'); document.getElementById('fakePlayer').classList.add('hidden'); document.getElementById('videoFrame').classList.add('hidden'); document.getElementById('timerOverlay').classList.add('hidden'); frame.classList.remove('hidden'); frame.src = `https://www.youtube.com/embed/${currentTrailerKey}?autoplay=1`; }
+    function loadSeasons(count) { const select = document.getElementById('seasonSelect'); select.innerHTML = '<option>Select Season</option>'; for(let i=1; i<=count; i++) { select.innerHTML += `<option value="${i}">Season ${i}</option>`; } select.value = 1; loadEpisodes(1); }
+    async function loadEpisodes(season) { activeSeason = season; const res = await fetch(`${API_BASE}?action=season_details&id=${activeId}&s=${season}`); const data = await res.json(); const select = document.getElementById('episodeSelect'); select.innerHTML = '<option>Select Episode</option>'; if(data.episodes) { data.episodes.forEach(ep => { select.innerHTML += `<option value="${ep.episode_number}">Ep ${ep.episode_number}: ${ep.name}</option>`; }); } loadServers(activeId, 'tv', season, 1); }
+    function selectEpisode(ep) { loadServers(activeId, 'tv', activeSeason, ep); document.getElementById('fakePlayer').classList.remove('hidden'); document.getElementById('videoFrame').classList.add('hidden'); document.getElementById('videoFrame').src = ''; document.getElementById('timerOverlay').classList.add('hidden'); }
+    async function loadServers(id, type, s=1, e=1) {
+        let url = `${API_BASE}?action=stream_sources&id=${id}&type=${type}`; if(type === 'tv') url += `&s=${s}&e=${e}`;
+        const res = await fetch(url); const data = await res.json(); const list = document.getElementById('serverList'); list.innerHTML = '';
+        if(data.servers) { activeServerUrl = data.servers[0].data; data.servers.forEach((server, index) => { const btn = document.createElement('div'); btn.className = `server-btn bg-[#1a1c24] p-3 rounded cursor-pointer flex flex-col items-center justify-center gap-1 ${index === 0 ? 'active' : ''}`; btn.innerHTML = `<span class="text-xl">${server.icon}</span><span class="text-xs font-bold text-gray-300">${server.label}</span>`; btn.dataset.url = server.data; btn.onclick = () => { document.querySelectorAll('.server-btn').forEach(b => b.classList.remove('active')); btn.classList.add('active'); activeServerUrl = server.data; triggerMoneyLoop(); }; list.appendChild(btn); }); }
+    }
+    function triggerMoneyLoop() {
+        document.getElementById('fakePlayer').classList.add('hidden'); document.getElementById('trailerFrame').classList.add('hidden');
+        const timerOverlay = document.getElementById('timerOverlay'); timerOverlay.classList.remove('hidden');
+        const timerCount = document.getElementById('timerCount'); let timeLeft = 15; timerCount.innerText = timeLeft;
+        const countdown = setInterval(() => { timeLeft--; timerCount.innerText = timeLeft; if (timeLeft <= 0) { clearInterval(countdown); revealPlayer(); } }, 1000);
+    }
+    function revealPlayer() {
+        document.getElementById('timerOverlay').classList.add('hidden'); const frame = document.getElementById('videoFrame');
+        if(activeServerUrl) { const decodedUrl = atob(activeServerUrl); if (decodedUrl.includes('godriveplayer.com')) { frame.referrerPolicy = "no-referrer"; } else { frame.referrerPolicy = "origin"; } frame.src = decodedUrl; frame.classList.remove('hidden'); }
+    }
+    function loadMore() { currentPage++; fetchContent('discover'); }
+    //]]>
+    </script>
+</body>
+</html>
